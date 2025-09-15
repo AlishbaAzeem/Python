@@ -1,4 +1,4 @@
-# Titanic Survival Prediction using Python 
+# Titanic Survival Classification using Python 
 
 Importing Dependencies
 
